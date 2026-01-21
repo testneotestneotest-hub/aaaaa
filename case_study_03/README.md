@@ -54,7 +54,7 @@ Bu kriterler birleştirilerek aboneler **Normal / Orta Risk / Yüksek Risk** ola
 - Tesisat bazında risk türleri
 ---
 
-![Dashboard Genel Bakış](dashboard_overview.png)
+![Dashboard Genel Bakış](dashboard.png)
 
 📄 **Detaylı dashboard çıktısı:**  
-[YEDAS_Anomali_Dashboard.pdf](YEDAS_Anomali_Dashboard.pdf)
+[YEDAS_Anomali_Dashboard.pdf](dashboard.pdf)
